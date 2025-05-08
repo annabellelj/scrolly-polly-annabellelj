@@ -151,8 +151,9 @@
 <div class="fullscreen-chapter header-image">
 	<div class="header-overlay"></div>
 	<div class="header-content">
-		<h1 class="main-title">Article Title Goes Here</h1>
-		<h2 class="sub-title">Authors // Date</h2>
+		<h1 class="main-title">Earthquake Over the last 100 Years</h1>
+		<h2 class="sub-title">Annabelle Jiang </h2>
+		<h2 class="sub-title">Spring 2025 </h2>
 	</div>
 </div>
 
@@ -162,47 +163,61 @@
 // Opening paragraphs before scrollytelling sections
 // ===================================================================
 -->
+
+
+<div class="content-container">
+	<h2>Earthquakes Over the Last 100 Years</h2>
+	<div style="min-height:600px" id="datawrapper-vis-PJCKx">
+	  <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PJCKx/embed.js" charset="utf-8" data-target="#datawrapper-vis-PJCKx"></script>
+	  <noscript>
+		<img src="https://datawrapper.dwcdn.net/PJCKx/full.png" alt="Static earthquake map" />
+	  </noscript>
+	</div>
+  </div>
+  
 <div class="content-container">
 	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
 	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<div class="image-left">
-		<img src="../../src/TestExample/Images/placeholder.png" alt="Square placeholder" />
+</div>
+
+<div class="content-container">
+	<h2>Top 10 Maginitude Earthquake Over the Last 100 Years</h2>
+	<div style="min-height:600px" id="datawrapper-vis-3mdJS">
+	  <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3mdJS/embed.js" charset="utf-8" data-target="#datawrapper-vis-3mdJS"></script>
+	  <noscript>
+		<img src="https://datawrapper.dwcdn.net/3mdJS/full.png" alt="Static earthquake map" />
+	  </noscript>
+	</div>
+  </div>
+
+
+  
+
+<div class="content-container">
+	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<div class="image-right">
+		<img src="../../src/TestExample/Images/visualization (1) copy.png" alt="Square placeholder" />
+	</div>
+	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<div class="image-right">
+		<img src="../../src/TestExample/Images/visualization (1).png" alt="Square placeholder" />
 	</div>
 	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
 	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
 </div>
+
 
 <!-- 
 // ===================================================================
 // CHAPTER SECTION - BLACK
 // Full-screen black background section with white text
 // ===================================================================
--->
-<div class="fullscreen-chapter black-bg">
-	<div class="content-container">
-		<h2>section header</h2>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	</div>
-</div>
 
-<!-- 
 // ===================================================================
 // MAP VISUALIZATION
 // Embedded Datawrapper map visualization
 // ===================================================================
 -->
-<div style="min-height:730px" id="datawrapper-vis-V8sUH"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8sUH/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8sUH"></script><noscript><img src="https://datawrapper.dwcdn.net/V8sUH/full.png" alt="" /></noscript></div>
-
-<div class="content-container">
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<div style="min-height:430px" id="datawrapper-vis-FkN5a"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/FkN5a/embed.js" charset="utf-8" data-target="#datawrapper-vis-FkN5a"></script><noscript><img src="https://datawrapper.dwcdn.net/FkN5a/full.png" alt="" /></noscript></div>
-	<p></p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-</div>
 
 <!-- 
 // ===================================================================
